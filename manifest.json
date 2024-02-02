@@ -37,8 +37,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "EFA7A6E9067873A78CC9232B4ED66955462325DFC74B664654DE94ED1A79C6ED",
+      "size": 36
     },
     "sidebar.ftd": {
       "name": "sidebar.ftd",
@@ -52,5 +52,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/ommangrulkar15/anything/zip/refs/heads/main",
-  "checksum": "133B54589622A938CB4CEEBC462969D9412E414E06E78E857189824D003656AA"
+  "checksum": "C6610B72114620E307B9788FFFEF58882AC31A149C3318583F3B83835834EEBE"
 }
